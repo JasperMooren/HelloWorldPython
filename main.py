@@ -3,7 +3,7 @@ def print_hello_name(name):
 
 
 def main():
-    print(repr(__name__))
+    # print(repr(__name__))
     print("Hello World!")
     print("What is your name?")
     name = input()
